@@ -1,8 +1,8 @@
 {
-  "name": "@formfunction-hq/formfunction-program-shared",
-  "version": "0.0.62",
-  "description": "Shared client SDK utils for formfunction Solan programs.",
-  "repository": "https://github.com/formfunction-hq/formfn-program-shared",
+  "name": "@bullistic-hq/bullistic-program-shared",
+  "version": "0.0.63",
+  "description": "Shared client SDK utils for Bullistic Solana programs.",
+  "repository": "https://github.com/bullistic-hq/bullistic-program-shared",
   "license": "UNLICENSED",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -10,7 +10,7 @@
     "dist"
   ],
   "publishConfig": {
-    "@formfunction-hq:registry": "https://npm.pkg.github.com"
+    "@bullistic-hq:registry": "https://npm.pkg.github.com"
   },
   "scripts": {
     "prepare": "husky install",
