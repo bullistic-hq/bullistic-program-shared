@@ -22,4 +22,4 @@ jobs:
       - run: |
           git config --global user.email "bullisticxyz@gmail.com"
           git config --global user.name "Bullistic"
-      - run: yarn run publish --yes
+      - run: yarn publish --yes
