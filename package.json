@@ -1,6 +1,6 @@
 {
   "name": "@bullistic-hq/bullistic-program-shared",
-  "version": "0.0.63",
+  "version": "0.0.64",
   "description": "Shared client SDK utils for Bullistic Solana programs.",
   "repository": "https://github.com/bullistic-hq/bullistic-program-shared",
   "license": "UNLICENSED",
