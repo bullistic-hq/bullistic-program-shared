@@ -131,7 +131,7 @@ export default function lintProgramIdlScript(idlFilePath: string): void {
     );
 
     console.log(
-      "- See more info here: https://www.notion.so/formfunction/Solana-Program-Backwards-Compatibility-18a68a79f6374c43be9b44f063998366"
+      "- See more info here: https://www.notion.so/bullistic/Solana-Program-Backwards-Compatibility-18a68a79f6374c43be9b44f063998366"
     );
     console.log("");
     if (shouldStopCommit) {

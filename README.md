@@ -3,7 +3,7 @@
 ![](banner.jpeg)
 
 <div align="center">
-  <h1>Formfunction Program Shared</h1>
+  <h1>Bullistic Program Shared</h1>
   <a href="#overview">Overview</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
   <a href="#repo-structure">Repo Structure</a>
@@ -17,7 +17,7 @@
 
 ## Overview
 
-Shared TypeScript library for Formfunction Solana program repos. This repo contains shared TS code which is used in our various program SDKs.
+Shared TypeScript library for Bullistic Solana program repos. This repo contains shared TS code which is used in our various program SDKs.
 
 ## Repo Structure
 
@@ -77,4 +77,4 @@ Follow these steps to publish a new version of the library:
 2. Run `git push origin NEW_TAG`.
 3. `git push` the new commit as well.
 4. Wait for the GitHub action to build and publish the library.
-5. Update client SDKs by running `yarn add @formfunction-hq/formfunction-program-shared@latest`.
+5. Update client SDKs by running `yarn add @bullistic-hq/bullistic-program-shared@latest`.

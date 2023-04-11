@@ -15,7 +15,7 @@ function getSignatureLengthBytes(signatureLength: number) {
   return 3;
 }
 
-// Lifted from https://github.com/formfunction-hq/formfn-monorepo/blob/main/packages/server/src/utils/solana/txs/getTransactionSizeInBytes.ts
+// Lifted from https://github.com/bullistic-hq/bullistic-monorepo/blob/main/packages/server/src/utils/solana/txs/getTransactionSizeInBytes.ts
 export default async function estimateTransactionSizeInBytes(
   txid: string,
   connection: Connection

@@ -84,7 +84,7 @@ function parseIdlInstruction(
  *
  * This function expects a concrete return type to be passed in, which can be
  * derived from the specific program's IDL, like this:
- * https://github.com/formfunction-hq/formfn-auction-house/blob/2c9ac2e2a1905440385612daa30da6688165a390/src/utils/tx-parsing/DecodedAuctionHouseTransactionResult.ts#L4
+ * https://github.com/bullistic-hq/bullistic-auction-house/blob/2c9ac2e2a1905440385612daa30da6688165a390/src/utils/tx-parsing/DecodedAuctionHouseTransactionResult.ts#L4
  */
 export default function decodeTransactionUsingProgramIdl<
   DecodedTransactionResult extends GenericDecodedTransactionResult

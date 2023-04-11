@@ -75,7 +75,7 @@ function getStartOfDecodedTransactionResultTypeFile(
   /**
    * NOTE: This is an auto-generated file. Don't edit it directly.
    */
-  import { DecodedInstructionAccount, GenericDecodedTransaction } from "@formfunction-hq/formfunction-program-shared";
+  import { DecodedInstructionAccount, GenericDecodedTransaction } from "@bullistic-hq/bullistic-program-shared";
   import { IDL as ${idlConstantName}_IDL } from "${idlImport}";
   import ${programName}InstructionName from "${programInstructionNameImport}";
 
